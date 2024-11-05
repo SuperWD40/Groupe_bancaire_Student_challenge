@@ -1,0 +1,504 @@
+Component,Sector,Ticker
+Verizon Communications Inc.,Communication Services,VZ
+AT&T Inc.,Communication Services,T
+"Live Nation Entertainment, Inc.",Communication Services,LYV
+"Warner Bros. Discovery, Inc. Series A",Communication Services,WBD
+Electronic Arts Inc.,Communication Services,EA
+"Take-Two Interactive Software, Inc.",Communication Services,TTWO
+Walt Disney Company,Communication Services,DIS
+"Netflix, Inc.",Communication Services,NFLX
+Meta Platforms Inc Class A,Communication Services,META
+"Match Group, Inc.",Communication Services,MTCH
+Alphabet Inc. Class C,Communication Services,GOOG
+Alphabet Inc. Class A,Communication Services,GOOGL
+"Charter Communications, Inc. Class A",Communication Services,CHTR
+Comcast Corporation Class A,Communication Services,CMCSA
+Fox Corporation Class B,Communication Services,FOX
+Omnicom Group Inc,Communication Services,OMC
+Fox Corporation Class A,Communication Services,FOXA
+"Interpublic Group of Companies, Inc.",Communication Services,IPG
+News Corporation Class A,Communication Services,NWSA
+Paramount Global Class B,Communication Services,PARA
+News Corporation Class B,Communication Services,NWS
+"T-Mobile US, Inc.",Communication Services,TMUS
+Aptiv PLC,Consumer Discretionary,APTV
+BorgWarner Inc.,Consumer Discretionary,BWA
+"Tesla, Inc.",Consumer Discretionary,TSLA
+General Motors Company,Consumer Discretionary,GM
+Ford Motor Company,Consumer Discretionary,F
+eBay Inc.,Consumer Discretionary,EBAY
+"Amazon.com, Inc.",Consumer Discretionary,AMZN
+LKQ Corporation,Consumer Discretionary,LKQ
+Pool Corporation,Consumer Discretionary,POOL
+Genuine Parts Company,Consumer Discretionary,GPC
+"Darden Restaurants, Inc.",Consumer Discretionary,DRI
+Hilton Worldwide Holdings Inc.,Consumer Discretionary,HLT
+Norwegian Cruise Line Holdings Ltd.,Consumer Discretionary,NCLH
+Caesars Entertainment Inc,Consumer Discretionary,CZR
+Starbucks Corporation,Consumer Discretionary,SBUX
+MGM Resorts International,Consumer Discretionary,MGM
+Las Vegas Sands Corp.,Consumer Discretionary,LVS
+McDonald's Corporation,Consumer Discretionary,MCD
+Booking Holdings Inc.,Consumer Discretionary,BKNG
+"Chipotle Mexican Grill, Inc.",Consumer Discretionary,CMG
+"Airbnb, Inc. Class A",Consumer Discretionary,ABNB
+Carnival Corporation,Consumer Discretionary,CCL
+Royal Caribbean Group,Consumer Discretionary,RCL
+"Yum! Brands, Inc.",Consumer Discretionary,YUM
+"Marriott International, Inc. Class A",Consumer Discretionary,MAR
+"Expedia Group, Inc.",Consumer Discretionary,EXPE
+"Wynn Resorts, Limited",Consumer Discretionary,WYNN
+"Domino's Pizza, Inc.",Consumer Discretionary,DPZ
+"Mohawk Industries, Inc.",Consumer Discretionary,MHK
+Garmin Ltd.,Consumer Discretionary,GRMN
+"D.R. Horton, Inc.",Consumer Discretionary,DHI
+Lennar Corporation Class A,Consumer Discretionary,LEN
+"PulteGroup, Inc.",Consumer Discretionary,PHM
+"NVR, Inc.",Consumer Discretionary,NVR
+"Hasbro, Inc.",Consumer Discretionary,HAS
+"CarMax, Inc.",Consumer Discretionary,KMX
+Ulta Beauty Inc.,Consumer Discretionary,ULTA
+"Lowe's Companies, Inc.",Consumer Discretionary,LOW
+"Ross Stores, Inc.",Consumer Discretionary,ROST
+"Home Depot, Inc.",Consumer Discretionary,HD
+TJX Companies Inc,Consumer Discretionary,TJX
+Tractor Supply Company,Consumer Discretionary,TSCO
+"O'Reilly Automotive, Inc.",Consumer Discretionary,ORLY
+"AutoZone, Inc.",Consumer Discretionary,AZO
+"Best Buy Co., Inc.",Consumer Discretionary,BBY
+"Tapestry, Inc.",Consumer Discretionary,TPR
+"NIKE, Inc. Class B",Consumer Discretionary,NKE
+Deckers Outdoor Corporation,Consumer Discretionary,DECK
+Ralph Lauren Corporation Class A,Consumer Discretionary,RL
+lululemon athletica inc.,Consumer Discretionary,LULU
+"PepsiCo, Inc.",Consumer Staples,PEP
+Coca-Cola Company,Consumer Staples,KO
+Monster Beverage Corporation,Consumer Staples,MNST
+Keurig Dr Pepper Inc.,Consumer Staples,KDP
+Brown-Forman Corporation Class B,Consumer Staples,BF-B
+Molson Coors Beverage Company Class B,Consumer Staples,TAP
+"Constellation Brands, Inc. Class A",Consumer Staples,STZ
+Target Corporation,Consumer Staples,TGT
+"Dollar Tree, Inc.",Consumer Staples,DLTR
+Sysco Corporation,Consumer Staples,SYY
+Dollar General Corporation,Consumer Staples,DG
+Walmart Inc.,Consumer Staples,WMT
+"Walgreens Boots Alliance, Inc.",Consumer Staples,WBA
+Kroger Co.,Consumer Staples,KR
+Costco Wholesale Corporation,Consumer Staples,COST
+Campbell Soup Company,Consumer Staples,CPB
+"Tyson Foods, Inc. Class A",Consumer Staples,TSN
+Kraft Heinz Company,Consumer Staples,KHC
+Hormel Foods Corporation,Consumer Staples,HRL
+J.M. Smucker Company,Consumer Staples,SJM
+"Mondelez International, Inc. Class A",Consumer Staples,MDLZ
+"General Mills, Inc.",Consumer Staples,GIS
+Kellanova,Consumer Staples,K
+Bunge Global SA,Consumer Staples,BG
+Archer-Daniels-Midland Company,Consumer Staples,ADM
+"McCormick & Company, Incorporated",Consumer Staples,MKC
+"Lamb Weston Holdings, Inc.",Consumer Staples,LW
+"Conagra Brands, Inc.",Consumer Staples,CAG
+Hershey Company,Consumer Staples,HSY
+"Church & Dwight Co., Inc.",Consumer Staples,CHD
+Procter & Gamble Company,Consumer Staples,PG
+Colgate-Palmolive Company,Consumer Staples,CL
+Clorox Company,Consumer Staples,CLX
+Kimberly-Clark Corporation,Consumer Staples,KMB
+Estee Lauder Companies Inc. Class A,Consumer Staples,EL
+"Kenvue, Inc.",Consumer Staples,KVUE
+"Altria Group, Inc.",Consumer Staples,MO
+Philip Morris International Inc.,Consumer Staples,PM
+Halliburton Company,Energy,HAL
+Baker Hughes Company Class A,Energy,BKR
+Schlumberger Limited,Energy,SLB
+Hess Corporation,Energy,HES
+Occidental Petroleum Corporation,Energy,OXY
+"EOG Resources, Inc.",Energy,EOG
+Phillips 66,Energy,PSX
+"Williams Companies, Inc.",Energy,WMB
+Targa Resources Corp.,Energy,TRGP
+EQT Corporation,Energy,EQT
+Exxon Mobil Corporation,Energy,XOM
+Devon Energy Corporation,Energy,DVN
+ConocoPhillips,Energy,COP
+Kinder Morgan Inc Class P,Energy,KMI
+Marathon Oil Corporation,Energy,MRO
+Marathon Petroleum Corporation,Energy,MPC
+Valero Energy Corporation,Energy,VLO
+"ONEOK, Inc.",Energy,OKE
+Chevron Corporation,Energy,CVX
+"Diamondback Energy, Inc.",Energy,FANG
+APA Corporation,Energy,APA
+Coterra Energy Inc.,Energy,CTRA
+Huntington Bancshares Incorporated,Financials,HBAN
+M&T Bank Corporation,Financials,MTB
+Fifth Third Bancorp,Financials,FITB
+Citigroup Inc.,Financials,C
+Wells Fargo & Company,Financials,WFC
+Truist Financial Corporation,Financials,TFC
+"PNC Financial Services Group, Inc.",Financials,PNC
+Bank of America Corp,Financials,BAC
+KeyCorp,Financials,KEY
+"Citizens Financial Group, Inc.",Financials,CFG
+Regions Financial Corporation,Financials,RF
+U.S. Bancorp,Financials,USB
+JPMorgan Chase & Co.,Financials,JPM
+"Goldman Sachs Group, Inc.",Financials,GS
+MSCI Inc. Class A,Financials,MSCI
+Blackstone Inc.,Financials,BX
+Morgan Stanley,Financials,MS
+T. Rowe Price Group,Financials,TROW
+State Street Corporation,Financials,STT
+"S&P Global, Inc.",Financials,SPGI
+Cboe Global Markets Inc,Financials,CBOE
+"Intercontinental Exchange, Inc.",Financials,ICE
+Charles Schwab Corp,Financials,SCHW
+"BlackRock, Inc.",Financials,BLK
+"Ameriprise Financial, Inc.",Financials,AMP
+CME Group Inc. Class A,Financials,CME
+"Franklin Resources, Inc.",Financials,BEN
+FactSet Research Systems Inc.,Financials,FDS
+Invesco Ltd.,Financials,IVZ
+Moody's Corporation,Financials,MCO
+MarketAxess Holdings Inc.,Financials,MKTX
+Northern Trust Corporation,Financials,NTRS
+KKR & Co Inc,Financials,KKR
+"Nasdaq, Inc.",Financials,NDAQ
+Bank of New York Mellon Corp,Financials,BK
+"Raymond James Financial, Inc.",Financials,RJF
+Capital One Financial Corp,Financials,COF
+Discover Financial Services,Financials,DFS
+American Express Company,Financials,AXP
+Synchrony Financial,Financials,SYF
+"Corpay, Inc.",Financials,CPAY
+Mastercard Incorporated Class A,Financials,MA
+Global Payments Inc.,Financials,GPN
+"Jack Henry & Associates, Inc.",Financials,JKHY
+"Fiserv, Inc.",Financials,FI
+Berkshire Hathaway Inc. Class B,Financials,BRK-B
+Visa Inc. Class A,Financials,V
+"PayPal Holdings, Inc.",Financials,PYPL
+"Fidelity National Information Services, Inc.",Financials,FIS
+Aflac Incorporated,Financials,AFL
+"Prudential Financial, Inc.",Financials,PRU
+Cincinnati Financial Corporation,Financials,CINF
+Loews Corporation,Financials,L
+"Travelers Companies, Inc.",Financials,TRV
+"Everest Group, Ltd.",Financials,EG
+"Assurant, Inc.",Financials,AIZ
+"MetLife, Inc.",Financials,MET
+"Hartford Financial Services Group, Inc.",Financials,HIG
+Progressive Corporation,Financials,PGR
+W. R. Berkley Corporation,Financials,WRB
+Globe Life Inc.,Financials,GL
+Arch Capital Group Ltd.,Financials,ACGL
+Chubb Limited,Financials,CB
+Allstate Corporation,Financials,ALL
+"American International Group, Inc.",Financials,AIG
+"Brown & Brown, Inc.",Financials,BRO
+Aon Plc Class A,Financials,AON
+Erie Indemnity Company Class A,Financials,ERIE
+Willis Towers Watson Public Limited Company,Financials,WTW
+Arthur J. Gallagher & Co.,Financials,AJG
+"Principal Financial Group, Inc.",Financials,PFG
+"Marsh & McLennan Companies, Inc.",Financials,MMC
+"Moderna, Inc.",Health Care,MRNA
+"AbbVie, Inc.",Health Care,ABBV
+"Regeneron Pharmaceuticals, Inc.",Health Care,REGN
+"Gilead Sciences, Inc.",Health Care,GILD
+Amgen Inc.,Health Care,AMGN
+Incyte Corporation,Health Care,INCY
+Vertex Pharmaceuticals Incorporated,Health Care,VRTX
+Biogen Inc.,Health Care,BIIB
+"Cooper Companies, Inc.",Health Care,COO
+Solventum Corporation,Health Care,SOLV
+Stryker Corporation,Health Care,SYK
+"DexCom, Inc.",Health Care,DXCM
+"Intuitive Surgical, Inc.",Health Care,ISRG
+Abbott Laboratories,Health Care,ABT
+Medtronic Plc,Health Care,MDT
+GE Healthcare Technologies Inc.,Health Care,GEHC
+Baxter International Inc.,Health Care,BAX
+"Becton, Dickinson and Company",Health Care,BDX
+Boston Scientific Corporation,Health Care,BSX
+Edwards Lifesciences Corporation,Health Care,EW
+ResMed Inc.,Health Care,RMD
+STERIS plc,Health Care,STE
+"IDEXX Laboratories, Inc.",Health Care,IDXX
+"Zimmer Biomet Holdings, Inc.",Health Care,ZBH
+"Hologic, Inc.",Health Care,HOLX
+Insulet Corporation,Health Care,PODD
+Teleflex Incorporated,Health Care,TFX
+"Align Technology, Inc.",Health Care,ALGN
+CVS Health Corporation,Health Care,CVS
+"Cencora, Inc.",Health Care,COR
+"Henry Schein, Inc.",Health Care,HSIC
+Centene Corporation,Health Care,CNC
+HCA Healthcare Inc,Health Care,HCA
+Humana Inc.,Health Care,HUM
+UnitedHealth Group Incorporated,Health Care,UNH
+"Elevance Health, Inc.",Health Care,ELV
+"Universal Health Services, Inc. Class B",Health Care,UHS
+Labcorp Holdings Inc.,Health Care,LH
+DaVita Inc.,Health Care,DVA
+McKesson Corporation,Health Care,MCK
+Cigna Group,Health Care,CI
+Quest Diagnostics Incorporated,Health Care,DGX
+"Molina Healthcare, Inc.",Health Care,MOH
+"Cardinal Health, Inc.",Health Care,CAH
+"West Pharmaceutical Services, Inc.",Health Care,WST
+"Revvity, Inc.",Health Care,RVTY
+Thermo Fisher Scientific Inc.,Health Care,TMO
+Danaher Corporation,Health Care,DHR
+IQVIA Holdings Inc,Health Care,IQV
+Bio-Techne Corporation,Health Care,TECH
+Waters Corporation,Health Care,WAT
+"Charles River Laboratories International, Inc.",Health Care,CRL
+"Agilent Technologies, Inc.",Health Care,A
+Mettler-Toledo International Inc.,Health Care,MTD
+"Viatris, Inc.",Health Care,VTRS
+Catalent Inc,Health Care,CTLT
+"Zoetis, Inc. Class A",Health Care,ZTS
+"Merck & Co., Inc.",Health Care,MRK
+Johnson & Johnson,Health Care,JNJ
+Bristol-Myers Squibb Company,Health Care,BMY
+Pfizer Inc.,Health Care,PFE
+Eli Lilly and Company,Health Care,LLY
+RTX Corporation,Industrials,RTX
+Howmet Aerospace Inc.,Industrials,HWM
+"Huntington Ingalls Industries, Inc.",Industrials,HII
+TransDigm Group Incorporated,Industrials,TDG
+Northrop Grumman Corp.,Industrials,NOC
+Axon Enterprise Inc,Industrials,AXON
+GE Aerospace,Industrials,GE
+L3Harris Technologies Inc,Industrials,LHX
+Boeing Company,Industrials,BA
+Textron Inc.,Industrials,TXT
+General Dynamics Corporation,Industrials,GD
+Lockheed Martin Corporation,Industrials,LMT
+"Expeditors International of Washington, Inc.",Industrials,EXPD
+"United Parcel Service, Inc. Class B",Industrials,UPS
+"C.H. Robinson Worldwide, Inc.",Industrials,CHRW
+FedEx Corporation,Industrials,FDX
+Masco Corporation,Industrials,MAS
+Allegion Public Limited Company,Industrials,ALLE
+"Builders FirstSource, Inc.",Industrials,BLDR
+A. O. Smith Corporation,Industrials,AOS
+Carrier Global Corp.,Industrials,CARR
+Trane Technologies plc,Industrials,TT
+Johnson Controls International plc,Industrials,JCI
+"Rollins, Inc.",Industrials,ROL
+"Copart, Inc.",Industrials,CPRT
+Cintas Corporation,Industrials,CTAS
+"Waste Management, Inc.",Industrials,WM
+Veralto Corporation,Industrials,VLTO
+"Republic Services, Inc.",Industrials,RSG
+"Quanta Services, Inc.",Industrials,PWR
+GE Vernova Inc.,Industrials,GEV
+"AMETEK, Inc.",Industrials,AME
+Emerson Electric Co.,Industrials,EMR
+Hubbell Incorporated,Industrials,HUBB
+Generac Holdings Inc.,Industrials,GNRC
+"Rockwell Automation, Inc.",Industrials,ROK
+Eaton Corp. Plc,Industrials,ETN
+"Old Dominion Freight Line, Inc.",Industrials,ODFL
+Union Pacific Corporation,Industrials,UNP
+Norfolk Southern Corporation,Industrials,NSC
+CSX Corporation,Industrials,CSX
+"J.B. Hunt Transport Services, Inc.",Industrials,JBHT
+"Uber Technologies, Inc.",Industrials,UBER
+Honeywell International Inc.,Industrials,HON
+3M Company,Industrials,MMM
+Snap-on Incorporated,Industrials,SNA
+Ingersoll Rand Inc.,Industrials,IR
+Dover Corporation,Industrials,DOV
+Pentair plc,Industrials,PNR
+Illinois Tool Works Inc.,Industrials,ITW
+"Stanley Black & Decker, Inc.",Industrials,SWK
+Deere & Company,Industrials,DE
+PACCAR Inc,Industrials,PCAR
+Nordson Corporation,Industrials,NDSN
+Westinghouse Air Brake Technologies Corporation,Industrials,WAB
+Cummins Inc.,Industrials,CMI
+Caterpillar Inc.,Industrials,CAT
+IDEX Corporation,Industrials,IEX
+Xylem Inc.,Industrials,XYL
+Fortive Corp.,Industrials,FTV
+Otis Worldwide Corporation,Industrials,OTIS
+Parker-Hannifin Corporation,Industrials,PH
+"United Airlines Holdings, Inc.",Industrials,UAL
+"Delta Air Lines, Inc.",Industrials,DAL
+Southwest Airlines Co.,Industrials,LUV
+"Automatic Data Processing, Inc.",Industrials,ADP
+Verisk Analytics Inc,Industrials,VRSK
+"Paycom Software, Inc.",Industrials,PAYC
+"Leidos Holdings, Inc.",Industrials,LDOS
+Jacobs Solutions Inc.,Industrials,J
+"Broadridge Financial Solutions, Inc.",Industrials,BR
+Equifax Inc.,Industrials,EFX
+"Amentum Holdings, Inc.",Industrials,AMTM
+"Dayforce, Inc.",Industrials,DAY
+"Paychex, Inc.",Industrials,PAYX
+"United Rentals, Inc.",Industrials,URI
+"W.W. Grainger, Inc.",Industrials,GWW
+Fastenal Company,Industrials,FAST
+"Cisco Systems, Inc.",Technology,CSCO
+"Juniper Networks, Inc.",Technology,JNPR
+"F5, Inc.",Technology,FFIV
+"Motorola Solutions, Inc.",Technology,MSI
+"Arista Networks, Inc.",Technology,ANET
+Amphenol Corporation Class A,Technology,APH
+Zebra Technologies Corporation Class A,Technology,ZBRA
+Trimble Inc.,Technology,TRMB
+Keysight Technologies Inc,Technology,KEYS
+Corning Inc,Technology,GLW
+TE Connectivity plc,Technology,TEL
+Jabil Inc.,Technology,JBL
+Teledyne Technologies Incorporated,Technology,TDY
+CDW Corporation,Technology,CDW
+Cognizant Technology Solutions Corporation Class A,Technology,CTSH
+"Gartner, Inc.",Technology,IT
+Accenture Plc Class A,Technology,ACN
+"Akamai Technologies, Inc.",Technology,AKAM
+International Business Machines Corporation,Technology,IBM
+"VeriSign, Inc.",Technology,VRSN
+"GoDaddy, Inc. Class A",Technology,GDDY
+"EPAM Systems, Inc.",Technology,EPAM
+Broadcom Inc.,Technology,AVGO
+Lam Research Corporation,Technology,LRCX
+"Enphase Energy, Inc.",Technology,ENPH
+Intel Corporation,Technology,INTC
+"Skyworks Solutions, Inc.",Technology,SWKS
+"Teradyne, Inc.",Technology,TER
+NXP Semiconductors NV,Technology,NXPI
+"Applied Materials, Inc.",Technology,AMAT
+"First Solar, Inc.",Technology,FSLR
+"Analog Devices, Inc.",Technology,ADI
+Microchip Technology Incorporated,Technology,MCHP
+NVIDIA Corporation,Technology,NVDA
+Texas Instruments Incorporated,Technology,TXN
+KLA Corporation,Technology,KLAC
+"Monolithic Power Systems, Inc.",Technology,MPWR
+"Advanced Micro Devices, Inc.",Technology,AMD
+QUALCOMM Incorporated,Technology,QCOM
+"Micron Technology, Inc.",Technology,MU
+"Qorvo, Inc.",Technology,QRVO
+ON Semiconductor Corporation,Technology,ON
+"CrowdStrike Holdings, Inc. Class A",Technology,CRWD
+Palantir Technologies Inc. Class A,Technology,PLTR
+"ServiceNow, Inc.",Technology,NOW
+"ANSYS, Inc.",Technology,ANSS
+Microsoft Corporation,Technology,MSFT
+"Autodesk, Inc.",Technology,ADSK
+"Salesforce, Inc.",Technology,CRM
+"Fortinet, Inc.",Technology,FTNT
+Gen Digital Inc.,Technology,GEN
+"Palo Alto Networks, Inc.",Technology,PANW
+"Roper Technologies, Inc.",Technology,ROP
+PTC Inc.,Technology,PTC
+"Tyler Technologies, Inc.",Technology,TYL
+"Synopsys, Inc.",Technology,SNPS
+Oracle Corporation,Technology,ORCL
+"Cadence Design Systems, Inc.",Technology,CDNS
+Intuit Inc.,Technology,INTU
+Adobe Inc.,Technology,ADBE
+Fair Isaac Corporation,Technology,FICO
+Western Digital Corporation,Technology,WDC
+Apple Inc.,Technology,AAPL
+"Dell Technologies, Inc. Class C",Technology,DELL
+HP Inc.,Technology,HPQ
+"Super Micro Computer, Inc.",Technology,SMCI
+Hewlett Packard Enterprise Co.,Technology,HPE
+"NetApp, Inc.",Technology,NTAP
+Seagate Technology Holdings PLC,Technology,STX
+Linde plc,Basic Materials,LIN
+"CF Industries Holdings, Inc.",Basic Materials,CF
+LyondellBasell Industries NV,Basic Materials,LYB
+International Flavors & Fragrances Inc.,Basic Materials,IFF
+Eastman Chemical Company,Basic Materials,EMN
+FMC Corporation,Basic Materials,FMC
+"Dow, Inc.",Basic Materials,DOW
+"Air Products and Chemicals, Inc.",Basic Materials,APD
+Sherwin-Williams Company,Basic Materials,SHW
+Albemarle Corporation,Basic Materials,ALB
+Corteva Inc,Basic Materials,CTVA
+"DuPont de Nemours, Inc.",Basic Materials,DD
+Mosaic Company,Basic Materials,MOS
+"PPG Industries, Inc.",Basic Materials,PPG
+Ecolab Inc.,Basic Materials,ECL
+Celanese Corporation,Basic Materials,CE
+Vulcan Materials Company,Basic Materials,VMC
+"Martin Marietta Materials, Inc.",Basic Materials,MLM
+Avery Dennison Corporation,Basic Materials,AVY
+International Paper Company,Basic Materials,IP
+Packaging Corporation of America,Basic Materials,PKG
+Smurfit Westrock PLC,Basic Materials,SW
+Amcor PLC,Basic Materials,AMCR
+Ball Corporation,Basic Materials,BALL
+Nucor Corporation,Basic Materials,NUE
+"Steel Dynamics, Inc.",Basic Materials,STLD
+Newmont Corporation,Basic Materials,NEM
+"Freeport-McMoRan, Inc.",Basic Materials,FCX
+"Ventas, Inc.",Real Estate,VTR
+"Healthpeak Properties, Inc.",Real Estate,DOC
+Welltower Inc.,Real Estate,WELL
+"Alexandria Real Estate Equities, Inc.",Real Estate,ARE
+"Host Hotels & Resorts, Inc.",Real Estate,HST
+"Prologis, Inc.",Real Estate,PLD
+BXP Inc,Real Estate,BXP
+"CBRE Group, Inc. Class A",Real Estate,CBRE
+"CoStar Group, Inc.",Real Estate,CSGP
+"Mid-America Apartment Communities, Inc.",Real Estate,MAA
+"UDR, Inc.",Real Estate,UDR
+"Invitation Homes, Inc.",Real Estate,INVH
+Equity Residential,Real Estate,EQR
+"Essex Property Trust, Inc.",Real Estate,ESS
+"AvalonBay Communities, Inc.",Real Estate,AVB
+Camden Property Trust,Real Estate,CPT
+Realty Income Corporation,Real Estate,O
+Regency Centers Corporation,Real Estate,REG
+"Simon Property Group, Inc.",Real Estate,SPG
+Federal Realty Investment Trust,Real Estate,FRT
+Kimco Realty Corporation,Real Estate,KIM
+Crown Castle Inc.,Real Estate,CCI
+Weyerhaeuser Company,Real Estate,WY
+Extra Space Storage Inc.,Real Estate,EXR
+VICI Properties Inc,Real Estate,VICI
+American Tower Corporation,Real Estate,AMT
+"Digital Realty Trust, Inc.",Real Estate,DLR
+"Equinix, Inc.",Real Estate,EQIX
+"Iron Mountain, Inc.",Real Estate,IRM
+SBA Communications Corp. Class A,Real Estate,SBAC
+Public Storage,Real Estate,PSA
+Duke Energy Corporation,Utilities,DUK
+"NRG Energy, Inc.",Utilities,NRG
+"NextEra Energy, Inc.",Utilities,NEE
+Alliant Energy Corporation,Utilities,LNT
+Edison International,Utilities,EIX
+PPL Corporation,Utilities,PPL
+Entergy Corporation,Utilities,ETR
+"Evergy, Inc.",Utilities,EVRG
+Southern Company,Utilities,SO
+Exelon Corporation,Utilities,EXC
+FirstEnergy Corp.,Utilities,FE
+Constellation Energy Corporation,Utilities,CEG
+Eversource Energy,Utilities,ES
+Xcel Energy Inc.,Utilities,XEL
+Pinnacle West Capital Corporation,Utilities,PNW
+PG&E Corporation,Utilities,PCG
+"American Electric Power Company, Inc.",Utilities,AEP
+Atmos Energy Corporation,Utilities,ATO
+Vistra Corp.,Utilities,VST
+AES Corporation,Utilities,AES
+CMS Energy Corporation,Utilities,CMS
+"CenterPoint Energy, Inc.",Utilities,CNP
+WEC Energy Group Inc,Utilities,WEC
+Public Service Enterprise Group Inc,Utilities,PEG
+Dominion Energy Inc,Utilities,D
+"Consolidated Edison, Inc.",Utilities,ED
+Sempra,Utilities,SRE
+Ameren Corporation,Utilities,AEE
+DTE Energy Company,Utilities,DTE
+NiSource Inc,Utilities,NI
+"American Water Works Company, Inc.",Utilities,AWK
